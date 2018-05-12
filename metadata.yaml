@@ -1,4 +1,8 @@
 _repo: Las-mascaras-vol-22_49418
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49418-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez de Ayala, Ramón
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5470
     wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_P%C3%A9rez_de_Ayala
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49418#Las-mascaras-vol-22
 gutenberg_issued: '2015-07-12'
 gutenberg_type: Text
 identifiers:
